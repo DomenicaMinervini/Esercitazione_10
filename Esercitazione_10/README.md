@@ -43,7 +43,7 @@ Copiare i file di dati del problema scelto dalla cartella Dati nella cartella di
 Nella cartella Mpi_10 si trovano alcune funzioni scritte prima di essere inserite nel codice 
 più ampio TSP. Queste funzioni riguardano l'uso della libreria MPI, quindi la parallelizzazione. 
 
-Nella cartella Mpi_10, Random_10 si trova il materiale propedeutico per la stesura
-del codice finale TSP. La cartella che contiene il codice finale per l'esame e' Esercizio_10.
+Nella cartella Mpi_10 si trova parte del materiale propedeutico per la stesura del codice finale TSP.
+La cartella che contiene il codice finale per l'esame e' Esercizio_10.
 	
 
